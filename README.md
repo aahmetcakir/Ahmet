@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer
 ------------------
 
-I write code everyday to improve myself. • Good at teamwork • Extremely proactive • Realistic thinker has an endless desire to improve.
+I write code everyday to improve myself. 
+  • Good at teamwork 
+  • Extremely proactive 
+  • Realistic thinker has an endless desire to improve.
 
 * 🌍  I'm based in Turkey, Istanbul
 * ✉️  You can contact me at [ca.ahmetcakir@gmail.com](mailto:ca.ahmetcakir@gmail.com)
