@@ -12,7 +12,6 @@ I write code everyday to improve myself.<br />
 * 🌍  I'm based in Turkey, Istanbul
 * 🚀  Website [ahmetcakir.dev](http://ahmetcakir.dev/)
 * ✉️  You can contact me at [ca.ahmetcakir@gmail.com](mailto:ca.ahmetcakir@gmail.com)
-[* 🚀  I'm currently working on [Puls](http://joinpuls.com/)](url)
 
 ### Skills
 
